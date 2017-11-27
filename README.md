@@ -65,3 +65,10 @@
 * calling convention
 * registers, basic instructions
 * c++ to asm
+
+## 10. sql. Declarative Programming.
+* [slides](https://slides.com/ordian/paradigms11)
+* sqlite3
+* basics: select, aggregate, where
+* group by
+* joins
